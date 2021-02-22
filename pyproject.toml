@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lektor-nl2br"
-version = "0.1.0"
+version = "0.1.1"
 description = "Lektor template filter to convert linebreaks to <br> tags"
 authors = ["chris48s"]
 license = "MIT"
@@ -14,7 +14,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.6"
-lektor = ">3"
+lektor = "3.*"
 
 [tool.poetry.dev-dependencies]
 isort = "^5.7"
