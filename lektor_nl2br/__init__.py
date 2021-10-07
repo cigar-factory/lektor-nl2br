@@ -1,5 +1,5 @@
-from jinja2 import Markup, escape
 from lektor.pluginsystem import Plugin
+from markupsafe import Markup, escape
 
 
 def _nl2br(text):
