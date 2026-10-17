@@ -1,6 +1,6 @@
 [project]
 name = "lektor-nl2br"
-version = "0.2.0"
+version = "0.3.0"
 description = "Lektor template filter to convert linebreaks to <br> tags"
 authors = [{name = "chris48s"}]
 license = "MIT"
